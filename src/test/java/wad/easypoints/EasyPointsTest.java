@@ -9,5 +9,6 @@ public class EasyPointsTest {
     @Test
     public void nothingToTest() {
         // you shall pass!
+        System.out.println("Test for testing");
     }
 }
